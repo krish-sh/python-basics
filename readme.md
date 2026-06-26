@@ -5,9 +5,11 @@
 - Type Conversion
 - Operators
 - Condition
+- Loops
 
 ## Small projects
 - BMI calculator
 - Interest Calculator
 - Shopping Cart Calculator
 - Guess Number
+- Atm Machine
