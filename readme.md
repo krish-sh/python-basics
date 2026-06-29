@@ -13,3 +13,7 @@
 - Shopping Cart Calculator
 - Guess Number
 - Atm Machine
+- Simple Calculator
+- Pyramid Traingle Star Printing
+- Pattern printing
+- Multiplication Table
