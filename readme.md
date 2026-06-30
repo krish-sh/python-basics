@@ -6,6 +6,7 @@
 - Operators
 - Condition
 - Loops
+- Functions
 
 ## Small projects
 - BMI calculator
