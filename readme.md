@@ -20,3 +20,5 @@
 - Shopping Cart Calculator
 - Student marks analyzer
 - Todo List
+- Temp Record
+- Inventory System
