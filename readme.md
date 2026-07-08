@@ -9,6 +9,7 @@
 - Functions
 - Lists
 - Tuples
+- Dictionaries
 
 ## Small projects
 - BMI calculator
