@@ -7,14 +7,18 @@
 - Condition
 - Loops
 - Functions
+- Lists
+- Tuples
 
 ## Small projects
 - BMI calculator
 - Interest Calculator
-- Shopping Cart Calculator
 - Guess Number
 - Atm Machine
 - Simple Calculator
-- Pyramid Traingle Star Printing
-- Pattern printing
 - Multiplication Table
+- Shopping Cart Calculator
+- Student marks analyzer
+- Todo List
+- Temp Record
+- Inventory System
